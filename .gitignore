@@ -1,3 +1,4 @@
 bandnames-server/node_modules
 bandnames/node_modules
 bandnames-server/.env
+bandnames/.env
